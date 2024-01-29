@@ -10,6 +10,7 @@ env:
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 452d0dcb-549e-4b98-8786-a2aa745868c9
   WEBAPP-NAME: az400-webapp-andang-eshop-web
+  ACTIONS_STEP_DEBUG: true
 
 
 jobs:
